@@ -1,0 +1,8 @@
+{
+    "build_options": [
+        {
+            "name": "install-test",
+            "value": "true"
+        }
+    ]
+}
